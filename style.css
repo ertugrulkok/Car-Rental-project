@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+
+   
+}
+#header_head{
+
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   
+
+}
+ :root{ font-family: Arial, Helvetica, sans-serif;}
+ 
+ .logo_image{
+    width: 8em;
+    margin-left: 10px;
+ }
+ .easy{
+   width: 25em;
+ }
+
+
+ #cont{
+    background-color: black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+   
+ }
+ .form-select{
+    margin-top: 15px;
+ }
+
+ .fa-globe{
+    font-size: 20px;
+
+ }
+ ul{
+    display: flex;
+    align-items: center;
+ }
+ .navbar-nav{
+    gap: 2rem;
+    
+   
+    
+   
+ }
+#footer{
+    
+    background-color: black;
+    color: white;
+}
+#footer .navbar-nav li a{
+    color: white;
+}
+#lenghtofcars{
+   font-size: 25px;
+   font-weight: 900;
+}
